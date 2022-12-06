@@ -1,0 +1,25 @@
+python
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+
+standardization
+normalization
+ordinal+label encoding
+one hot encoding
+handling mixed variables
+handling date and time
+handling missing data
+column transformer
+pipelines
+function transformer
+power transformer
+binning and binarization
+knn imputer
+outliers and outliers detection
